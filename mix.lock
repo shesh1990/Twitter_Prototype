@@ -1,0 +1,2 @@
+%{"con_cache": {:hex, :con_cache, "0.12.1", "7553dcd51ee86fd52bd9ea9aa4b33e71bebf0b5fc5ab60e63d2e0bcaa260f937", [], [{:exactor, "~> 2.2.0", [hex: :exactor, repo: "hexpm", optional: false]}], "hexpm"},
+  "exactor": {:hex, :exactor, "2.2.4", "5efb4ddeb2c48d9a1d7c9b465a6fffdd82300eb9618ece5d34c3334d5d7245b1", [], [], "hexpm"}}
