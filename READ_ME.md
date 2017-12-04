@@ -223,7 +223,8 @@ This will start the server on the specified port, if mentioned else on
 | 7       | 1832        |
 | 8       | 1391        |
 
-<img src="./media/image17.png" width="514" height="648" />
+
+<img src="./media/image17.PNG" width="514" height="648" />
 
 We verified the simulator with maximum concurrent logged user count
 =7000 with over 300,000 tweets.
