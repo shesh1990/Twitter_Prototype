@@ -1,4 +1,0 @@
-# TwitterPrototype
-
-**TODO: Add description**
-
